@@ -52,7 +52,7 @@ Desktop keys: `1` zoom · `2` surf · `3` atlas · `H` theory · `B` gallery · 
 
 ## The atlas (`splat_atlas.py`)
 
-![pic3](pic3.png)
+![pic3](pic1.png)
 
 The atlas is a heavier, separate tool. It systematically **bakes thousands of thumbnails to disk** (with every `z` saved) so you can survey the whole space at a glance and click any tile back to a full‑res face.
 
