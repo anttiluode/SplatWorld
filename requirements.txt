@@ -1,0 +1,6 @@
+numpy>=1.24
+gradio>=5.0
+onnxruntime>=1.17
+imageio>=2.31
+imageio-ffmpeg>=0.4
+pillow>=9.5

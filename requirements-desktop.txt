@@ -1,0 +1,6 @@
+# Local OpenCV explorer (explore_desktop.py) + atlas surveyor (splat_atlas.py)
+numpy>=1.24
+opencv-python>=4.9
+onnxruntime>=1.17      # REQUIRED on OpenCV 5 (its dnn can't parse the model's dynamic batch)
+imageio>=2.31          # only if you record zoom video from the desktop app
+imageio-ffmpeg>=0.4
